@@ -5,9 +5,7 @@ Certainly! These three principles, often referred to as the "CIA Triad," are fun
    - It means that only authorized people should have access to certain information, and it should be kept private from unauthorized individuals.
    - In the digital world, this involves protecting data from being accessed or seen by people who shouldn't have permission to view it. 
 
-2. **Integrity**:
-   - Imagine you're sending a message, and you want to make sure it arrives exactly as you sent it, without anyone tampering with it. That's integrity.
-   - It ensures that data is not altered or tampered with during storage or transmission. It should remain accurate and unmodified by unauthorized parties.
+
 
 3. **Availability**:
    - Availability is like ensuring that a service or information is always there when you need it, just like a reliable utility service.
