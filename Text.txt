@@ -7,8 +7,6 @@ Certainly! These three principles, often referred to as the "CIA Triad," are fun
 
 
 
-3. **Availability**:
-   - Availability is like ensuring that a service or information is always there when you need it, just like a reliable utility service.
-   - It means that data and resources should be accessible and operational when necessary, without disruption due to accidents, attacks, or other issues.
+3. 
 
 In the world of cybersecurity, these principles guide the design and implementation of security measures to protect information and systems from unauthorized access, tampering, and unexpected outages. Remembering "CIA" can help you recall these important aspects of information security.
