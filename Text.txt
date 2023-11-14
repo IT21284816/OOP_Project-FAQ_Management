@@ -1,5 +1,3 @@
-Certainly! These three principles, often referred to as the "CIA Triad," are fundamental concepts in information security:
-
 1. **Confidentiality**:
    - Think of this as the idea of keeping information a secret, like a personal diary with a lock. 
    - It means that only authorized people should have access to certain information, and it should be kept private from unauthorized individuals.
