@@ -5,6 +5,4 @@
 
 
 
-3. 
-
-In the world of cybersecurity, these principles guide the design and implementation of security measures to protect information and systems from unauthorized access, tampering, and unexpected outages. Remembering "CIA" can help you recall these important aspects of information security.
+ring "CIA" can help you recall these important aspects of information security.
