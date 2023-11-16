@@ -1,8 +1,3 @@
 1. **Confidentiality**:
    - Think of this as the idea of keeping information a secret, like a personal diary with a lock. 
    - It means that only authorized people should have access to certain information, and it should be kept private from unauthorized individuals.
-   - In the digital world, this involves protecting data from being accessed or seen by people who shouldn't have permission to view it. 
-
-
-
-ring "CIA" can help you recall these important aspects of information security.
